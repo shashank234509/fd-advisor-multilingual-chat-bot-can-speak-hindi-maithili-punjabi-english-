@@ -1,0 +1,9 @@
+mysql-connector-python
+python-dotenv
+streamlit
+SpeechRecognition
+gTTS
+pyaudio
+requests
+deep-translator
+langdetect
